@@ -3,6 +3,10 @@
 A partir do banco de dados commerce, que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas, foram realizados os desafios abaixo.
 
 * Projeto desenvolvido com MongoDB e Docker
+<div align=“left”>
+  <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg” height=“50” width=“62" alt=“mongodb logo”  />
+  <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg” height=“50” width=“62" alt=“docker logo”  />
+</div>
 
 ### Desafios
 > Os desafios estão presentes no diretório `challenges`
